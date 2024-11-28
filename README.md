@@ -89,6 +89,7 @@ git clone https://github.com/Zeikrom251/Fleet-bikes-management
 This project was developed as a team effort under the supervision of our teacher. My specific contributions include :
 - Developing the web application for the technicians.
 - Backend intergration with the IoT server.
+- Developing the interaction between the bike and the technician.
 
 ---
 

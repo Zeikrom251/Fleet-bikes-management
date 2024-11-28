@@ -27,6 +27,7 @@ The goal of this project is to provide a comprehensive system for a company call
 ### Backend
 - ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square)
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+- ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
 
 ### IoT Components
 - **ESP32 :** Embedded system for bike communication.
@@ -44,6 +45,7 @@ The goal of this project is to provide a comprehensive system for a company call
 ```plaintext
 Lora Project/
 ├── index.html         # Main entry point of the web application
+├── WiFi/              # WiFi Folder containing c++ files
 ├── src/
 │   ├── css/           # Stylesheets
 │   ├── database/      # SQL scripts and database configurations
